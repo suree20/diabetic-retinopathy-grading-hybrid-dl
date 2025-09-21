@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559272964775",
+    "project_id": "dr-app-36922",
+    "storage_bucket": "dr-app-36922.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559272964775:android:9a4e73fc0fa422c3e3a182",
+        "android_client_info": {
+          "package_name": "com.diabetic_retinopathy_detector.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuq02RrlnnDDba0nHwhp2Js5TzyIEaiMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
